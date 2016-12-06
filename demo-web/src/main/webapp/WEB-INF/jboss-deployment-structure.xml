@@ -7,8 +7,6 @@
 			<module name="org.mybatis" export="true" meta-inf="export"/>
 			<module name="org.apache.commons.dbcp2" export="true" meta-inf="export"/>
 			<module name="mysql" export="true" meta-inf="export"/>
-			<module name="com.hynnet.sqljdbc4"/>
-			<module name="com.hynnet.ojdbc"/>
 			<module name="javax.commons" export="true" meta-inf="export"/>
 			<module name="org.apache.zookeeper" />
 			<module name="com.alibaba.fastjson"/>
