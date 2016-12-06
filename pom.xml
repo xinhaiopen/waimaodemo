@@ -225,7 +225,7 @@
     <repositories>
         <repository>
             <id>xinhai-releases</id>
-            <url>http://121.42.62.71:13420/nexus/content/groups/public/</url>
+            <url>http://131.52.62.71:13720/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -238,11 +238,11 @@
     <distributionManagement>
         <repository>
             <id>xinhai-release</id>
-            <url>http://121.42.62.71:13420/nexus/content/repositories/xinhai-release</url>
+            <url>http://131.52.62.71:13720/nexus/content/repositories/xinhai-release</url>
         </repository>
         <snapshotRepository>
             <id>xinhai-snapshots</id>
-            <url>http://121.42.62.71:13420/nexus/content/repositories/xinhai-snapshots/</url>
+            <url>http://131.52.62.71:13720/nexus/content/repositories/xinhai-snapshots/</url>
             <uniqueVersion>false</uniqueVersion>
         </snapshotRepository>
     </distributionManagement>
